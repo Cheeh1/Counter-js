@@ -25,7 +25,7 @@ btns.forEach(function (btn) {
         } else if (count < 0) {
             value.style.color = 'red';
         } else {
-            value.style.color = 'black'
+            value.style.color = 'black';
         }
     });
 });
